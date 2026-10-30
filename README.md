@@ -1,8 +1,8 @@
 # Unit 3 – Multimedia and Interactive Visualization
 
 **Course:** VDUI  
-**Student:** Bhuvi Bagga  
-**SRN:** PES2UG24CS117
+**Student:** Sukriti Deep  
+**SRN:** PES2UG24CS534
 
 ## About This Repository
 
