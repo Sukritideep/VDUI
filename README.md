@@ -1,6 +1,6 @@
 # Unit 4 – Natural Language & Conversational Visualization
-BHUVI BAGGA
-PES2UG24CS117
+SUKRITI DEEP
+PES2UG24CS534
 
 ## Case-Based Activity: Auditing ChatViz at RideNow
 
